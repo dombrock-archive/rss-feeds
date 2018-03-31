@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="Hacker News" title="Hacker News" type="rss" 
+            xmlUrl="https://hnrss.org/newest" htmlUrl="https://news.ycombinator.com/newest" maxItems="2000" scanDelay="10"/>
+      <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" 
+            xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
+      <outline text="Linux, GNU/Linux, free software..." title="Linux, GNU/Linux, free software..." type="rss" 
+            xmlUrl="https://www.reddit.com/r/linux.rss" htmlUrl="https://www.reddit.com/r/linux"/>
+      <outline text="Open Source on Reddit" title="Open Source on Reddit" type="rss" 
+            xmlUrl="https://www.reddit.com/r/opensource.rss" htmlUrl="https://www.reddit.com/r/opensource"/>
+      <outline text="GNU/Linux Gaming on Reddit" title="GNU/Linux Gaming on Reddit" type="rss" 
+            xmlUrl="https://www.reddit.com/r/linux_gaming.rss" htmlUrl="https://www.reddit.com/r/linux_gaming"/>
+      <outline text="Ask Reddit..." title="Ask Reddit..." type="rss" 
+            xmlUrl="https://www.reddit.com/r/askreddit.rss" htmlUrl="https://www.reddit.com/r/askreddit"/>
+      <outline text="World News" title="World News" type="rss" 
+            xmlUrl="https://www.reddit.com/r/worldnews.rss" htmlUrl="https://www.reddit.com/r/worldnews"/>
+      <outline text="Technology" title="Technology" type="rss" 
+            xmlUrl="https://www.reddit.com/r/technology.rss" htmlUrl="https://www.reddit.com/r/technology"/>
+</body>
+</opml>
